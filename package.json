@@ -3,6 +3,14 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qasirdev/common-pkg.git"
+  },
+  "publishConfig": {
+    "@qasirdev:registry": "https://npm.pkg.github.com"
+  },
+
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
