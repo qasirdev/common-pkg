@@ -1,6 +1,6 @@
 {
-  "name": "common-pkg",
-  "version": "1.0.1",
+  "name": "@qasirdev/common-pkg",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
